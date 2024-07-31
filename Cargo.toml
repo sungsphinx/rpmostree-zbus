@@ -1,0 +1,9 @@
+[package]
+name = "rpmostree-zbus"
+version = "0.1.0"
+edition = "2021"
+description = "DBus interfaces for rpm-ostree"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+zbus = "4"

@@ -1,0 +1,6 @@
+[submodule "rpm-ostree"]
+	path = rpm-ostree
+	url = https://github.com/coreos/rpm-ostree.git
+[submodule "zbus"]
+	path = zbus
+	url = https://github.com/dbus2/zbus.git
